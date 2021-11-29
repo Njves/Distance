@@ -13,3 +13,4 @@ def corner_distance(x1, y1, x2, y2, x3, y3, x4, y4) -> float:
                  + (vector_b[0] ** 2 + vector_b[1] ** 2) ** 0.5
     return round(sum_vector, 2)
 
+
